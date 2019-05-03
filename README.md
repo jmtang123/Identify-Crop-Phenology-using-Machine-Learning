@@ -1,3 +1,2 @@
-# K-Nearest-Neighbors-Algorithm
-Apply KNN algorithm for the crop intensity research
-This project is apply KNN algorithm for the crop intensity research in Bangladesh. The MODIS data ('MODIS/006/MOD09Q1') and feild crop intensity data in 2010 was collected. The cross validation method was applied for the validation.
+# Identify crop intensity using Machine Learning Algorithms
+In South Asia, agriculture faces the remarkable challenge of feeding an increasing population projected to rise 43.8% by 2050 with extremely limited per capita arable land. Crop intensity is one significant factor indicating the crop activities. This project is to identify crop intensity of Bangladesh in 2010 using Machine Learning Algorithms.
