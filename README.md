@@ -1,2 +1,2 @@
-# Identify crop intensity using Machine Learning Algorithms
-In South Asia, agriculture faces the remarkable challenge of feeding an increasing population projected to rise 43.8% by 2050 with extremely limited per capita arable land. Crop intensity is one significant factor indicating the crop activities. This project is to identify crop intensity of Bangladesh in 2010 using Machine Learning Algorithms.
+# Identify crop phenology using MODIS satellite image and climate data
+This project is to identify crop phenology using MODIS satellite image (MOD09Q1, 250m, 8 day) and daily climate data (DayMet V3, 1km).
